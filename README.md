@@ -24,6 +24,7 @@ Amal Mbarki
 ## Project Demo
 
 This project demonstrates a machine learning approach to detect cyberattacks using classification models and data visualization.
+<<<<<<< HEAD
 
 
 ## Installation
@@ -34,3 +35,5 @@ This project demonstrates a machine learning approach to detect cyberattacks usi
 
 ## Exécution
 - Pour entraîner le modèle :  
+=======
+>>>>>>> 9e70d997db5b184eef168f3858319eeb4602f972

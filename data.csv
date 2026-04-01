@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 duration,packets,bytes,label
+=======
+duration,packets,bytes,attack
+>>>>>>> 9e70d997db5b184eef168f3858319eeb4602f972
 10,100,1000,0
 20,200,2000,1
 5,50,500,0
